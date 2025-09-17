@@ -1,0 +1,10 @@
+ 
+.gradle/ build/ out/ !gradle-wrapper.jar
+IntelliJ IDEA
+.idea/ .iml .iws *.ipr
+Logs
+*.log
+OS files
+.DS_Store Thumbs.db
+Temporary files
+.tmp .swp 
